@@ -5,6 +5,9 @@ body{
     font-family: sans-serif;
     background:url(./img/5c549ab12600004502faf136.webp) no-repeat;
     background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
 }
 
 .login_box{
